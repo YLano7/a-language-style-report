@@ -1,4 +1,6 @@
-# A 语言风格研究报告
+# 在命令与关怀之间
+
+匿名说话者 A 的语言习惯、说理方式与精神世界研究报告。
 
 这是一份可离线阅读、可直接部署到 GitHub Pages 的静态 HTML 报告。报告不依赖构建工具、第三方字体、远程图片或 JavaScript 框架；正文引用的学术链接需要联网访问。
 
@@ -39,8 +41,6 @@ GitHub 的最新操作界面可能调整，部署时以 [GitHub Pages 官方说�
 
 网页采用学术刊物内页的窄栏正文、边栏目录、脚注式引文、数据卡片和原创 SVG 图表。响应式布局会在窄屏上折叠为单栏；打印规则参考 CSS Paged Media 规范，尽量避免标题、图表与引文块跨页断裂。相关技术说明可参见 [MDN Paged Media](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Paged_media) 与 [MDN Multi-column Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_multicol_layout)。
 
-## 内容边界
+## 研究材料
 
-报告只分析用户提供的封闭语料，不识别说话者身份，也不使用人物、作品或台词出处等外部信息。心理学与精神分析内容属于有证据约束的解释假设，不构成临床诊断。
-
-
+报告以用户提供的封闭语料为全部人物证据，围绕句法节奏、会话方式、叙事逻辑、关系伦理与心理表达展开。外部文献只用于说明分析概念和研究方法。
